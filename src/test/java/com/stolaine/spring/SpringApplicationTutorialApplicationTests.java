@@ -1,4 +1,4 @@
-package com.stolaine.spring.springapplicationtutorial;
+package com.stolaine.spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

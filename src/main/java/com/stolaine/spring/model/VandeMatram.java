@@ -1,4 +1,4 @@
-package com.stolaine.spring.springapplicationtutorial.model;
+package com.stolaine.spring.model;
 
 public class VandeMatram implements CompactDisc {
     private String title = "Vande Matram";
