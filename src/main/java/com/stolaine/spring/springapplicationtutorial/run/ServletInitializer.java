@@ -1,4 +1,4 @@
-package com.stolaine.spring.springapplicationtutorial;
+package com.stolaine.spring.springapplicationtutorial.run;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
